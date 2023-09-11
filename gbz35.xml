@@ -1,0 +1,29 @@
+<!--
+theme name:     gbz35-jelos
+version:        1.0
+author:         booyah187
+license:        creative commons CC BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/3.0/
+based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt Kennedy, and "SimpleBigArt" by Ewzzy, "RK3326 Zero 3.5" by tiduscrying
+-->
+
+<theme>
+
+<formatVersion>7</formatVersion>
+	
+<variables>
+        <fullscreenfixSubsetname>Emulationstation Screen Size</fullscreenfixSubsetname>
+		<subset.colorset>Theme Color</subset.colorset>
+</variables>
+
+<subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
+        <include name="ES Header" displayName="${ES Header}">./header.xml</include>
+        <include name="ES Fullscreen" displayName="${ES Fullscreen}">./fullscreen.xml</include>
+		<include name="4:3" displayName="${4:3}">./fullscreenv.xml</include>
+</subset>
+
+<subset name="colorset" displayName="${subset.colorset}">
+        <include name="light" displayName="${light}">./light.xml</include>
+		<include name="dark" displayName="${dark}">./dark.xml</include>
+</subset>
+
+</theme>
