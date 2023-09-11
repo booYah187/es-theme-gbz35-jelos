@@ -4,11 +4,14 @@ author:         booyah187/mattyj513
 
 license:        creative commons CC BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/3.0/
 
-based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt Kennedy, and "SimpleBigArt" by Ewzzy, "RK3326 Zero 3.5" by tiduscrying
+based on:       ["GBZ 3.5" by Brad Miller](https://github.com/rxbrad/es-theme-gbz35), ["Carbon" by Rookervik](https://github.com/RetroPie/es-theme-carbon), ["Spare" by Matt Kennedy](https://github.com/mattrixk/es-theme-spare), ["SimpleBigArt" by Ewzzy](https://github.com/robertybob/es-theme-simplebigart), ["RK3326 Zero 3.5" by tiduscrying](https://github.com/tiduscrying/es-theme-gbz35-dark_mod)
 
-Handful of color changes to various systems. Custom Collections for Super Mario Bros, Zelda, Final Fantasy, VS (fighting), Megaman, RPGs, Classics, Hacks, Donkey Kong, Castlevania, Kirby, Madden, Retroachievements, Tetris, Sonic, and Mastered, with more planned/underway. To get started, go to Main Menu, Game Collection Settings, Create New Custom Collection from Theme. Select the desired collection. From there, navigate to any games you would like to add to the collection, press X, and select add to custom collection. Once created and setup, each collection's visibility can be toggled via Main Menu, Game Collection Settings, Custom Game Collections. Games in a collection will persist after toggling, so once the initial setup is done visibility can be toggled as desired.
+Handful of color changes to various systems. Custom Collections for Super Mario Bros, Zelda, Final Fantasy, VS (fighting), Megaman, RPGs, Classics, Hacks, Donkey Kong, Castlevania, Kirby, Madden, Retroachievements, Tetris, Sonic, and Mastered, with more planned/underway. 
 
 To install [extract zip](https://github.com/booYah187/es-theme-gbz35-jelos/releases/download/1.0/es-theme-gbz35-jelos.zip), place es-theme-gbz35-jelos folder at /storage/.config/emulationstation/themes/
+
+To get started with Custom Collections, go to Main Menu, Game Collection Settings, Create New Custom Collection from Theme. Select the desired collection. From there, navigate to any games you would like to add to the collection, press X, and select add to custom collection. Once created and setup, each collection's visibility can be toggled via Main Menu, Game Collection Settings, Custom Game Collections. Games in a collection will persist after toggling, so once the initial setup is done visibility can be toggled as desired.
+
 <details>
 <summary>Click to view Systems</summary>
 
