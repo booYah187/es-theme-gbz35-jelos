@@ -12,6 +12,8 @@ To install [extract zip](https://github.com/booYah187/es-theme-gbz35-jelos/relea
 
 To get started with Custom Collections, go to Main Menu, Game Collection Settings, Create New Custom Collection from Theme. Select the desired collection. From there, navigate to any games you would like to add to the collection, press X, and select add to custom collection. Once created and setup, each collection's visibility can be toggled via Main Menu, Game Collection Settings, Custom Game Collections. Games in a collection will persist after toggling, so once the initial setup is done visibility can be toggled as desired.
 
+New View Style! Now there are 3 View Styles, Basic, which is gameslist only, Detailed, which is gameslist and boxart, and Video, which deceptively is actually to show gameslist, boxart, genre, developer, and description. To switch, navigate to UI Settings, Theme Configuration, Gamelist View Style, and select Video.
+
 <details>
 <summary>Click to view Systems</summary>
 
@@ -62,3 +64,14 @@ To get started with Custom Collections, go to Main Menu, Game Collection Setting
 
 </details>
 
+<details>
+<summary>Click to view new View Style</summary>
+
+![alteredbeast](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/views/alteredbeast.png)
+![cowboybebop](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/views/cowboybebop.png)
+![doubledragon](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/views/doubledragon.png)
+![jetgrindradio](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/views/jetgrindradio.png)
+![lisa](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/views/lisa.png)
+![snoopy](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/views/snoopy.png)
+![wario](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/views/wario.png)
+</details>
