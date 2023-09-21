@@ -22,8 +22,7 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 </subset>
 
 <subset name="colorset" displayName="${subset.colorset}">
-        <include name="light" displayName="${light}">./light.xml</include>
-		<include name="dark" displayName="${dark}">./dark.xml</include>
+	<include name="dark" displayName="${dark}">./dark.xml</include>
 </subset>
 
 </theme>
