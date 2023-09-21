@@ -1,7 +1,7 @@
 <!--
 theme name:     Gameboy Zero 3.5" - Dark Version [MOD]
 version:        1.0
-author:         booyah187/mattyj513
+author:         Brad Miller
 edited by:      tiduscrying
 license:        creative commons CC BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/3.0/
 based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt Kennedy, and "SimpleBigArt" by Ewzzy
@@ -118,8 +118,8 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 				<pos>0.195 0.89</pos>
 				<maxSize>0.325 0.325</maxSize>
 				<delay>1</delay>
-				<showSnapshotNoVideo>true</showSnapshotNoVideo>
-				<showSnapshotDelay>true</showSnapshotDelay>
+				<showSnapshotNoVideo>false</showSnapshotNoVideo>
+				<showSnapshotDelay>false</showSnapshotDelay>
 				<effect>none</effect>
 			</video>
 
@@ -248,8 +248,8 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 				<pos>0.195 0.89</pos>
 				<maxSize>0.325 0.325</maxSize>
 				<delay>1</delay>
-				<showSnapshotNoVideo>true</showSnapshotNoVideo>
-				<showSnapshotDelay>true</showSnapshotDelay>
+				<showSnapshotNoVideo>false</showSnapshotNoVideo>
+				<showSnapshotDelay>false</showSnapshotDelay>
 				<effect>none</effect>
 			</video>
 
@@ -441,4 +441,5 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
       <color>ffffff</color>
     </menuText>
     </view>
+
 </theme>
