@@ -6,7 +6,7 @@ license:        creative commons CC BY-NC-SA - https://creativecommons.org/licen
 
 based on:       ["GBZ 3.5" by Brad Miller](https://github.com/rxbrad/es-theme-gbz35), ["Carbon" by Rookervik](https://github.com/RetroPie/es-theme-carbon), ["Spare" by Matt Kennedy](https://github.com/mattrixk/es-theme-spare), ["SimpleBigArt" by Ewzzy](https://github.com/robertybob/es-theme-simplebigart), ["RK3326 Zero 3.5" by tiduscrying](https://github.com/tiduscrying/es-theme-gbz35-dark_mod)
 
-Handful of color changes to various systems. Custom Collections for Super Mario Bros, Zelda, Final Fantasy, VS (fighting), Megaman, RPGs, Classics, Hacks, Donkey Kong, Castlevania, Kirby, Madden, Retroachievements, Tetris, Sonic, and Mastered, with more planned/underway. 
+Handful of color changes to various systems. Custom Collections for Super Mario Bros, Zelda, Final Fantasy, VS (fighting), Megaman, RPGs, Classics, Hacks, Donkey Kong, Castlevania, Kirby, Madden, Retroachievements, Tetris, Sonic, Simpsons, Pokemon, and Mastered, with more planned/underway. 
 
 To install [extract zip](https://github.com/booYah187/es-theme-gbz35-jelos/releases/download/1.0/es-theme-gbz35-jelos.zip), place es-theme-gbz35-jelos folder at /storage/.config/emulationstation/themes/
 
