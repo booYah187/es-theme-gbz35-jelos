@@ -16,6 +16,7 @@ New View Style! Now there are 3 View Styles, Basic, which is gameslist only, Det
 
 <details>
 <summary>Click to view Systems</summary>
+  
 ![love2d](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/systems/love2d.png)
 ![pico8](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/systems/pico8.png)
 ![arcade](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/systems/arcade.png)
@@ -54,7 +55,7 @@ New View Style! Now there are 3 View Styles, Basic, which is gameslist only, Det
 ![madden](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/madden.png)
 ![cmastered](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/mastered.png)
 ![megaman](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/megaman.png)
-![pokemon](cmhttps://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/pokemon.png)
+![pokemon](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/pokemon.png)
 ![retroachievements](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/retroachievements.png)
 ![rpg](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/rpg.png)
 ![simpsons](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/simpsons.png)
