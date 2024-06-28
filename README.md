@@ -62,6 +62,7 @@ New View Style! Now there are 3 View Styles, Basic, which is gameslist only, Det
 ![sonic](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/sonic.png)
 ![supermario](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/supermario.png)
 ![tetris](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/tetris.png)
+![tmnt](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/tmnt.png)
 ![vs](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/vs.png)
 ![zelda](https://github.com/booYah187/es-theme-gbz35-jelos/blob/main/previewimages/collections/zelda.png)
 
